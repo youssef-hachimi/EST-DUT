@@ -1,0 +1,13 @@
+Algorithme echange 
+
+Variable 
+         n , m : entier
+Debut 
+		 Ecrire ( "saisir lavaler de n" ) 
+		 Lire (n)
+         Ecrire ( "lavaleur de m" ) 
+		 Lire (m) 
+		 B <-- n + m
+		 Ecrire ( "lasom des nombre est :" B ) 
+		 
+Fin 
